@@ -12,4 +12,4 @@ I'm a passionate software developer with experience in front-end and back-end de
 
 ## Contact
 - Email: tatthanh258@gmail.com
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/notifications/?filter=all)
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/tat-thanh-nguyen-trong-073669335/)

@@ -1,6 +1,9 @@
-# sinsaries.github.io
-## Thông tin cơ bản
-- Tên: Nguyễn Trọng Tất Thành
-- Năm sinh: 2005
-- MSSV: 23521455
-- Chuyên ngành: Khoa học Máy tính
+# 👋 Hi, I'm Nguyen Trong Tat Thanh
+
+- 🌱 I’m a software developer specializing in backend
+- 💼 Currently working at ACP Company
+- 🔧 Skills: C++
+- 🌐 Personal website: sinsaries.github.io
+- 📫 Reach me at [23521455@gmail.com]
+
+Feel free to check out my projects and reach out if you’re interested in collaborating!
